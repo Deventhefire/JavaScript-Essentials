@@ -1,0 +1,35 @@
+*{
+    margin top:100px ;
+    padding top:100px;
+    background-color: antiquewhite;
+}
+
+#name{
+    padding-top: 100px;
+
+}
+
+#inp{
+    width: 20%;
+    height: 20px;
+
+}
+
+.p{
+    height: 50px;
+    width: 50px;
+    /* background-color: red; */
+}
+
+.but{
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 30px;
+    background-color: white;
+    border: 3px solid gray;
+    cursor: pointer;
+    
+}
+.but :hover{
+    
+}
